@@ -1,0 +1,1 @@
+PIF_Harbinger_TIR_transposon	1629	Chr2	.	Name=Chr2:665013..666642	Classification=DNA/DTH	TSD=TTA_TTA_100.0	TIR=GGGCATCTCC_GGAGATGCTC

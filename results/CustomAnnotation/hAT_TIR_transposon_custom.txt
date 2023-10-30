@@ -1,0 +1,4 @@
+hAT_TIR_transposon	4384	Chr2	.	ID=TE_struc_24	Name=Chr2:476771..481155	Classification=DNA/DTA	Sequence_ontology=SO:0002279	Identity=1	Method=structural	TSD=TATACGAG_TATACGAG_100.0	TIR=CAGTGTTGTG_CACAACACTG
+hAT_TIR_transposon	515	Chr2	.	ID=TE_struc_34	Name=Chr2:723930..724445	Classification=MITE/DTA	Sequence_ontology=SO:0002279	Identity=0.9	Method=structural	TSD=CCCACAAA_CCCACAAA_100.0	TIR=TAGGGCTGGA_TCCACCCCTA
+hAT_TIR_transposon	514	Chr2	.	ID=TE_struc_43	Name=Chr2:962523..963037	Classification=MITE/DTA	Sequence_ontology=SO:0002279	Identity=0.9	Method=structural	TSD=GTGATGCG_GTGATGCG_100.0	TIR=TAGGGATGGC_CCCATCCCTA
+hAT_TIR_transposon	220	Chr2	.	ID=TE_struc_21	Name=Chr2:387216..387436	Classification=MITE/DTA	Sequence_ontology=SO:0002279	Identity=0.9	Method=structural	TSD=AGCACAAA_AGCACAAA_100.0	TIR=CAGGGTTTGA_TAAAACCCTG

@@ -1,0 +1,11 @@
+     19 Tc1_Mariner_TIR_transposon
+      8 helitron
+      8 long_terminal_repeat
+      8 target_site_duplication
+      6 Mutator_TIR_transposon
+      4 hAT_TIR_transposon
+      4 PIF_Harbinger_TIR_transposon
+      4 repeat_region
+      3 CACTA_TIR_transposon
+      2 Copia_LTR_retrotransposon
+      2 Gypsy_LTR_retrotransposon

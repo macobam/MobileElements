@@ -1,0 +1,2 @@
+repeat_region	6459	Chr2	-	ID=repeat_region_1	Name=Os0076	Classification=LTR/Copia	Method=structural	tsd=GTATA	
+repeat_region	4969	Chr2	+	ID=repeat_region_4	Name=Os3517	Classification=LTR/Copia	Method=structural	tsd=GAAGG	

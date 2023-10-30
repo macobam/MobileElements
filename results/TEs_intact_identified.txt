@@ -1,0 +1,12 @@
+10  Tc1_Mariner_MITEs    MITEs
+9   Tc1_Mariner          TIR_Transposons
+8   helitron             Helitron
+4   Mutator              TIR_Transposons
+3   CACTA                TIR_Transposons
+3   hAT_MITEs            MITEs
+3   PIF_Harbinger_MITEs  MITEs
+2   Copia                LTR_Retrotransposons
+2   Gypsy                LTR_Retrotransposons
+2   Mutator_MITEs        MITEs
+1   hAT                  TIR_Transposons
+1   PIF_Harbinger        TIR_Transposons

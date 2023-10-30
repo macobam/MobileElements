@@ -1,0 +1,8 @@
+helitron	18062	Chr2	+	ID=TE_struc_1	Name=TE_00000001	Classification=DNA/Helitron	Sequence_ontology=SO:0000544	Identity=NA	Method=structural
+helitron	17687	Chr2	+	ID=TE_struc_2	Name=TE_00000002	Classification=DNA/Helitron	Sequence_ontology=SO:0000544	Identity=NA	Method=structural
+helitron	16437	Chr2	-	ID=TE_struc_6	Name=TE_00000006	Classification=DNA/Helitron	Sequence_ontology=SO:0000544	Identity=NA	Method=structural
+helitron	2029	Chr2	-	ID=TE_struc_5	Name=TE_00000016	Classification=DNA/Helitron	Sequence_ontology=SO:0000544	Identity=NA	Method=structural
+helitron	1144	Chr2	+	ID=TE_struc_3	Name=Chr2:474786..475930	Classification=DNA/Helitron	Sequence_ontology=SO:0000544	Identity=NA	Method=structural
+helitron	586	Chr2	-	ID=TE_struc_0	Name=Chr2:77152..76566	Classification=DNA/Helitron	Sequence_ontology=SO:0000544	Identity=NA	Method=structural
+helitron	480	Chr2	+	ID=TE_struc_4	Name=TE_00000032	Classification=DNA/Helitron	Sequence_ontology=SO:0000544	Identity=NA	Method=structural
+helitron	333	Chr2	-	ID=TE_struc_7	Name=TE_00000034	Classification=DNA/Helitron	Sequence_ontology=SO:0000544	Identity=NA	Method=structural

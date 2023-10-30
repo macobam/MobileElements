@@ -1,0 +1,6 @@
+Mutator_TIR_transposon	1549	Chr2	.	ID=TE_struc_22	Name=Chr2:424885..426434	Classification=DNA/DTM	Sequence_ontology=SO:0002280	Identity=1	Method=structural	TSD=TTGTTATTA_TTGTTATTA_100.0	TIR=GGAAAAAGTA_TACTTTTTCC
+Mutator_TIR_transposon	1351	Chr2	.	ID=TE_struc_28	Name=Chr2:594917..596268	Classification=DNA/DTM	Sequence_ontology=SO:0002280	Identity=0.9	Method=structural	TSD=TTTTCTTAA_TTTTCTTAA_100.0	TIR=GGAAAAAATA_TACTTTTTCC
+Mutator_TIR_transposon	786	Chr2	.	ID=TE_struc_33	Name=Chr2:720539..721325	Classification=DNA/DTM	Sequence_ontology=SO:0002280	Identity=1	Method=structural	TSD=TATTTGCATA_TATTTGCATA_100.0	TIR=GGAATAAGTT_AACTTATTCC
+Mutator_TIR_transposon	612	Chr2	.	ID=TE_struc_40	Name=Chr2:837243..837855	Classification=DNA/DTM	Sequence_ontology=SO:0002280	Identity=0.9	Method=structural	TSD=TTTTCTT_TTTTCTT_100.0	TIR=CTCCGAACCC_GGGGTCGGAG
+Mutator_TIR_transposon	434	Chr2	.	ID=TE_struc_19	Name=TE_00000012	Classification=MITE/DTM	Sequence_ontology=SO:0002280	Identity=0.9	Method=structural	TSD=TAGATCTG_TAGATCTG_100.0	TIR=GATGCCTCAT_ATGAGGCGTC
+Mutator_TIR_transposon	140	Chr2	.	ID=TE_struc_8	Name=Chr2:39311..39451	Classification=MITE/DTM	Sequence_ontology=SO:0002280	Identity=0.9	Method=structural	TSD=AAAAAATAA_AAAAAATAA_100.0	TIR=GGGGCAATTG_CAAATGCCCC

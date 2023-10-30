@@ -1,0 +1,8 @@
+target_site_duplication	4	Chr2	+	ID=rTSD_4	Parent=repeat_region_4	Name=Os3517	Classification=LTR/Copia	Sequence_ontology=SO:0000434	ltr_identity=0.9860	Method=structural	motif=TGTA	tsd=GAAGG
+target_site_duplication	4	Chr2	+	ID=lTSD_4	Parent=repeat_region_4	Name=Os3517	Classification=LTR/Copia	Sequence_ontology=SO:0000434	ltr_identity=0.9860	Method=structural	motif=TGTA	tsd=GAAGG
+target_site_duplication	4	Chr2	?	ID=rTSD_3	Parent=repeat_region_3	Name=Os0030_RIRE2	Classification=LTR/Gypsy	Sequence_ontology=SO:0000434	ltr_identity=0.9955	Method=structural	motif=TGCA	tsd=GTTAT
+target_site_duplication	4	Chr2	?	ID=lTSD_3	Parent=repeat_region_3	Name=Os0030_RIRE2	Classification=LTR/Gypsy	Sequence_ontology=SO:0000434	ltr_identity=0.9955	Method=structural	motif=TGCA	tsd=GTTAT
+target_site_duplication	4	Chr2	-	ID=rTSD_2	Parent=repeat_region_2	Name=Os0016	Classification=LTR/Gypsy	Sequence_ontology=SO:0000434	ltr_identity=0.9936	Method=structural	motif=TGCA	tsd=GAGAT
+target_site_duplication	4	Chr2	-	ID=rTSD_1	Parent=repeat_region_1	Name=Os0076	Classification=LTR/Copia	Sequence_ontology=SO:0000434	ltr_identity=1.0000	Method=structural	motif=TGCA	tsd=GTATA
+target_site_duplication	4	Chr2	-	ID=lTSD_2	Parent=repeat_region_2	Name=Os0016	Classification=LTR/Gypsy	Sequence_ontology=SO:0000434	ltr_identity=0.9936	Method=structural	motif=TGCA	tsd=GAGAT
+target_site_duplication	4	Chr2	-	ID=lTSD_1	Parent=repeat_region_1	Name=Os0076	Classification=LTR/Copia	Sequence_ontology=SO:0000434	ltr_identity=1.0000	Method=structural	motif=TGCA	tsd=GTATA

@@ -1,0 +1,4 @@
+long_terminal_repeat	978	Chr2	-	ID=lLTR_1	Name=Os0076	ltr_identity=1.0000	motif=TGCA	tsd=GTATA
+long_terminal_repeat	969	Chr2	-	ID=rLTR_1	Name=Os0076	ltr_identity=1.0000	motif=TGCA	tsd=GTATA
+long_terminal_repeat	214	Chr2	+	ID=rLTR_4	Name=Os3517	ltr_identity=0.9860	motif=TGTA	tsd=GAAGG
+long_terminal_repeat	214	Chr2	+	ID=lLTR_4	Name=Os3517	ltr_identity=0.9860	motif=TGTA	tsd=GAAGG

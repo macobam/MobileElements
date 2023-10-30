@@ -1,0 +1,2 @@
+repeat_region	12852	Chr2	-	ID=repeat_region_2	Name=Os0016	Classification=LTR/Gypsy	Method=structural	tsd=GAGAT	
+repeat_region	11341	Chr2	?	ID=repeat_region_3	Name=Os0030_RIRE2	Classification=LTR/Gypsy	Method=structural	tsd=GTTAT	

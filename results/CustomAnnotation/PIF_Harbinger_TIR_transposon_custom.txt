@@ -1,0 +1,4 @@
+PIF_Harbinger_TIR_transposon	1629	Chr2	.	ID=TE_struc_31	Name=Chr2:665013..666642	Classification=DNA/DTH	Sequence_ontology=SO:0002284	Identity=0.9	Method=structural	TSD=TTA_TTA_100.0	TIR=GGGCATCTCC_GGAGATGCTC
+PIF_Harbinger_TIR_transposon	535	Chr2	.	ID=TE_struc_26	Name=Os0007_Castaway	Classification=MITE/DTH	Sequence_ontology=SO:0002284	Identity=1	Method=structural	TSD=TTA_TTA_100.0	TIR=GGGCCCCTTT_AAAGGGGCCC
+PIF_Harbinger_TIR_transposon	429	Chr2	.	ID=TE_struc_29	Name=Os0625_mPing	Classification=MITE/DTH	Sequence_ontology=SO:0002284	Identity=1	Method=structural	TSD=TTA_TTA_100.0	TIR=GGCCAGTCAC_GTGACTGGCC
+PIF_Harbinger_TIR_transposon	396	Chr2	.	ID=TE_struc_27	Name=Chr2:593255..593651	Classification=MITE/DTH	Sequence_ontology=SO:0002284	Identity=1	Method=structural	TSD=TTA_TTA_100.0	TIR=GAGCATCACC_GGTGATGCTC

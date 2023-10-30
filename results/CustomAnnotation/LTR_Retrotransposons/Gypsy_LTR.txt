@@ -1,0 +1,4 @@
+long_terminal_repeat	1087	Chr2	-	ID=rLTR_2	Name=Os0016	ltr_identity=0.9936	motif=TGCA	tsd=GAGAT
+long_terminal_repeat	1085	Chr2	-	ID=lLTR_2	Name=Os0016	ltr_identity=0.9936	motif=TGCA	tsd=GAGAT
+long_terminal_repeat	440	Chr2	?	ID=rLTR_3	Name=Os0030_RIRE2	ltr_identity=0.9955	motif=TGCA	tsd=GTTAT
+long_terminal_repeat	440	Chr2	?	ID=lLTR_3	Name=Os0030_RIRE2	ltr_identity=0.9955	motif=TGCA	tsd=GTTAT

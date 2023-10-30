@@ -1,0 +1,2 @@
+Copia_LTR_retrotransposon	6449	Chr2	-	Parent=repeat_region_1	Name=Os0076	ltr_identity=1.0000	motif=TGCA	tsd=GTATA
+Copia_LTR_retrotransposon	4959	Chr2	+	Parent=repeat_region_4	Name=Os3517	ltr_identity=0.9860	motif=TGTA	tsd=GAAGG

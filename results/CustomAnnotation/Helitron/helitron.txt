@@ -1,0 +1,8 @@
+helitron	18062	Chr2	+	Name=TE_00000001
+helitron	17687	Chr2	+	Name=TE_00000002
+helitron	16437	Chr2	-	Name=TE_00000006
+helitron	2029	Chr2	-	Name=TE_00000016
+helitron	1144	Chr2	+	Name=Chr2:474786..475930
+helitron	586	Chr2	-	Name=Chr2:77152..76566
+helitron	480	Chr2	+	Name=TE_00000032
+helitron	333	Chr2	-	Name=TE_00000034

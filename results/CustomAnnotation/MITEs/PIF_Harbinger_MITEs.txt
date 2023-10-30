@@ -1,0 +1,3 @@
+PIF_Harbinger_TIR_transposon	535	Chr2	.	Name=Os0007_Castaway	Classification=MITE/DTH	TSD=TTA_TTA_100.0	TIR=GGGCCCCTTT_AAAGGGGCCC
+PIF_Harbinger_TIR_transposon	429	Chr2	.	Name=Os0625_mPing	Classification=MITE/DTH	TSD=TTA_TTA_100.0	TIR=GGCCAGTCAC_GTGACTGGCC
+PIF_Harbinger_TIR_transposon	396	Chr2	.	Name=Chr2:593255..593651	Classification=MITE/DTH	TSD=TTA_TTA_100.0	TIR=GAGCATCACC_GGTGATGCTC

@@ -1,0 +1,2 @@
+Gypsy_LTR_retrotransposon	12842	Chr2	-	ID=LTRRT_2	Parent=repeat_region_2	Name=Os0016	Classification=LTR/Gypsy	Sequence_ontology=SO:0002265	ltr_identity=0.9936	Method=structural	motif=TGCA	tsd=GAGAT
+Gypsy_LTR_retrotransposon	11331	Chr2	?	ID=LTRRT_3	Parent=repeat_region_3	Name=Os0030_RIRE2	Classification=LTR/Gypsy	Sequence_ontology=SO:0002265	ltr_identity=0.9955	Method=structural	motif=TGCA	tsd=GTTAT
