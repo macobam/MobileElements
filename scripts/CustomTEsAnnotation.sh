@@ -53,7 +53,7 @@ then
 	exit 0
 	fi
 else
-	if [[ -d $AnnotationFile ]]
+  if [[ -d $AnnotationFile ]]
 	then
 		echo -e "\nERROR: Ha proporcionado un directorio. Intente nuevamente."
 		exit 0
