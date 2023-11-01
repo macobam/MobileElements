@@ -3,7 +3,18 @@
 #AUTOR: Manuel Alejandro Coba
 #FECHA: 2023/10/25
 
-(
+
+# Crear un archivo de registro (logfile)
+
+logfile=~/Desktop/MobileElements/results/out.logfile
+
+if [[ -s $logfile ]]
+then
+	rm $logfile
+fi
+
+exec > >(tee -a $logfile) 2>&1
+
 
 #----------------------------
 #
@@ -238,7 +249,7 @@ for folder in ${CustomAnnotation_folder}*
 # Excluir tipos de archivos que corresponden a partes de TEs y no son propiamente superfamilias
 		list_files=$(ls $folder | grep -E -v "*_LTR*|*_TSD*|*_RepeatRegion*")
 		for file in $list_files
-		do
+        do
 			numberTEs=$(wc -l < $folder/$file)
 			echo -e "$numberTEs\t$(basename $file .txt)\t$(basename $folder)" >> ${Results_folder}TEs_intact_identified.txt.tmp
 		done
@@ -248,5 +259,3 @@ for folder in ${CustomAnnotation_folder}*
 # Ordenar descendentemente el número de TEs que se identificaron
 cat ${Results_folder}TEs_intact_identified.txt.tmp | column -t -s $'\t' | sort -k 1nr > ${Results_folder}TEs_intact_identified.txt
 rm -f ${Results_folder}TEs_intact_identified.txt.tmp
-) 2>&1 | tee -a out.logfile
-
